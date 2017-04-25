@@ -1,0 +1,2 @@
+{ "port" : "adc1", "mode":"in", "topic":"adc1", "onlyNewValues" : true,  "interval" : 500, "constant": 1, "offset": 0 }
+{ "port" : "d1", "mode":"in", "topic":"d1","onlyNewValues" : true,  "interval" : 500 }
