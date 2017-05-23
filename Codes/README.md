@@ -5,6 +5,12 @@ Esta pasta contém um compilado de códigos gerados pelo grupo visando ajudar no
 
 ## Descrição dos Arquivos
 
-### Arq1
+### Arq1: bnt
+Exemplo descrito em Python utilizando-se de apenas um botão 
 
+### Arq2: led
+Exemplo descrito em Pyhton utilizando-se um sensor de Led
+
+### Arq3: 
+Exemplo descrito em C utilizando o sensor de temperatura
 #### Em desenvolvimento...
