@@ -26,3 +26,14 @@ Após a configuração do broker, segue os objetos referente aos sensores. Parâ
 
 ### Configurar uma entrada/saída analógica
 ##### Em breve...
+
+## Sobre o projeto
+Projeto está sendo desenvolvido pelo grupo de estudantes:
+- Gabriela Ramos
+- Letícia Berto
+- Mateus S. Vasconcelos
+- Wesley Moura
+
+Em adjunto com os professores:
+- Fábio Verdi
+- Yeda Venturi
