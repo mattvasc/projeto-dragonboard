@@ -4,7 +4,7 @@ O Projeto consiste em criar um servidor em python que monitore canais **MQTT** e
 ## Sobre o server.py
 Consiste em um servidor multithread onde cada thread terá a responsabilidade de cuidar de um sensor e escutar/publicar em um determinado tópico do protocolo MQTT.
 ## Sobre o arquivo config.json
-Arquivo de configuração do servidor, onde exclusivamente a primeira linha é exclusivamente dedicada a configuração do broker mqtt e para as demais, cada linha equivale a uma entrada/saída do shield (Utilizado para desenvolvimento do projeto **LinkerSprite Starter Kit**).
+Arquivo de configuração do servidor, onde a primeira linha é exclusivamente dedicada a configuração do broker mqtt e para as demais, cada linha equivale a uma entrada/saída do shield (Utilizado para desenvolvimento do projeto **LinkerSprite Starter Kit**).
 É necessário fornecer objetos com os parâmetros necessários para o correto funcionamento.
 ### Configuração do Broker
 É necessário na primeira linha do arquivo fornecer um objeto json com os seguintes atributos:
