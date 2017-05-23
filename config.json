@@ -1,2 +1,3 @@
+{ "server" : "localhost"; "port" : 1883 }
 { "port" : "d1", "mode": "in", "topic":"apertou", "onlyNewValues" : false,  "interval" : 0.05 }
 { "port" : "d2", "mode": "out", "topic":"apertou"}
