@@ -11,6 +11,6 @@ Exemplo descrito em Python utilizando-se de apenas um botão
 ### Arq2: led
 Exemplo descrito em Pyhton utilizando-se um sensor de Led
 
-### Arq3: 
+### Arq3: temp 
 Exemplo descrito em C utilizando o sensor de temperatura
 #### Em desenvolvimento...
