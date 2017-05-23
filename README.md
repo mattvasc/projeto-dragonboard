@@ -12,10 +12,10 @@ Arquivo de configuração do servidor, onde a primeira linha é exclusivamente d
 - port - Número da porta onde o broker está rodando.
 ##### Exemplo de configuração de Broker:
 { "server" : "localhost"; "port" : 1883 }
-### Configurar uma entrada/sada digital
+### Configurar uma entrada/saída digital
 Após a configuração do broker, segue os objetos referente aos sensores. Parâmetros necessários:
 - port - Indica em qual porta do shield o sensor está conectado. Valores válidos: "d1", "d2", "d3" e "d4".
-- mode - Indica se o sensor conectado é de entrada de sada. Valores válidos: "in" ou "out".
+- mode - Indica se o sensor conectado é de entrada de saída. Valores válidos: "in" ou "out".
 - topic - Indica em qual tópico o sensor irá escutar no caso de dispositivo de entrada, ou publicar em caso de dispositivo de entrada.
 - onlyNewValues - Configuração exclusiva para dispositivos de entrada, se ativa, não publicará valores repetidos no tópico cuja o qual o sensor está configurado. Valores válidos: true/false.
 ##### Exemplo de uma entrada dígital:
