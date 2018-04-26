@@ -28,7 +28,11 @@ Após a configuração do broker, segue os objetos referente aos sensores. Parâ
 ##### Em breve...
 
 ## Sobre o projeto
-Projeto está sendo desenvolvido pelo grupo de estudantes:
+Atualmente, o projeto está sendo desenvolvido pelo grupo de estudantes:
+- Mateus S. Vasconcelos
+- Giovanna Blasco
+
+E contou com a colaboração dos seguintes no ano de 2017:
 - Gabriela Ramos
 - Letícia Berto
 - Mateus S. Vasconcelos
