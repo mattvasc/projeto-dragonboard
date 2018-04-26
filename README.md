@@ -24,8 +24,7 @@ Após a configuração do broker, segue os objetos referente aos sensores. Parâ
 ##### Exemplo de uma saída digital:
 { "port" : "d2", "mode": "out", "topic":"apertou"}
 
-### Configurar uma entrada/saída analógica
-##### Em breve...
+
 
 ## Sobre o projeto
 Atualmente, o projeto está sendo desenvolvido pelo grupo de estudantes:
