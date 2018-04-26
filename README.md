@@ -1,6 +1,7 @@
 # Projeto Dragonboard
 Projeto de contribuição para a disciplina IoT ofertada na **Universidade Federal de São Carlos**. 
 O Projeto consiste em criar um servidor em python que monitore canais **MQTT** em adjunto aos sensores da placa **DB410C**.
+<!--- 
 ## Sobre o server.py
 Consiste em um servidor multithread onde cada thread terá a responsabilidade de cuidar de um sensor e escutar/publicar em um determinado tópico do protocolo MQTT.
 ## Sobre o arquivo config.json
@@ -24,7 +25,7 @@ Após a configuração do broker, segue os objetos referente aos sensores. Parâ
 ##### Exemplo de uma saída digital:
 { "port" : "d2", "mode": "out", "topic":"apertou"}
 
-
+--->
 
 ## Sobre o projeto
 Atualmente, o projeto está sendo desenvolvido pelo grupo de estudantes:
