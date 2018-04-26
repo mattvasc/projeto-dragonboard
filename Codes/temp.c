@@ -1,3 +1,9 @@
+/* 
+
+Para compilar utilize a flag -lsoc
+Código para mostrar a temperatura do sensor plugado na porta ADC1
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -61,7 +67,7 @@ int main()
     adc_value = (rx[1]<<8)&0b1100000000;
     adc_value |= (rx[2]&0xff);
  
-    printf("The current temperature is %2.1f\n",(adc_value*5.0/1023-0.5)*100);
+    printf("The current temperature is %2.1f\n",(adc_value*3.3/1023-0.5)*100);
     sleep(1);
    }
    free:
