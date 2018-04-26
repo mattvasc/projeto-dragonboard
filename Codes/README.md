@@ -6,11 +6,19 @@ Esta pasta contém um compilado de códigos gerados pelo grupo visando ajudar no
 ## Descrição dos Arquivos
 
 ### Arquivo 1: bnt
-Exemplo descrito em Python3 utilizando-se de apenas um botão 
+Exemplo desenvolvido em Python3 utilizando-se de apenas um botão.
 
 ### Arquivo 2: led
-Exemplo descrito em Pyhton3 utilizando-se um sensor de Led
+Exemplo desenvolvido em Pyhton3 utilizando-se um sensor de Led.
 
-### Arquivo 3: temp 
-Exemplo descrito em C utilizando o sensor de temperatura
+### Arquivo 3: btn-led
+Exemplo desenvolvido em C combinando um sensor de Led e um botão.
 
+### Arquivo 4: temp 
+Exemplo desenvolvido em C utilizando o sensor de temperatura.
+
+#### Apêndice
+Sem perda de generalidade, é possivel trocar um botão por qualquer outro módulo digital de entrada,
+assim como o led por qualquer outro módulo digital de saída.
+
+Assim como utilizar o código de temperatura como base, para um outro módulo analógico de entrada, alterando apenas a parte de conversão do valor lido para ºC.
