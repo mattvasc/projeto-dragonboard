@@ -18,6 +18,7 @@ int main ()
 
   int entrada, timer;
   gpio *gpio_entrada;
+  gpio *gpio_saida;
   printf ("Digite em qual porta se localiza o botao de entrada: ");
   scanf ("%d%*c", &entrada);
   while (entrada < 0 || entrada > 4)
@@ -58,7 +59,7 @@ int main ()
       usleep (1000);
       timer++;
     }
-  libsoc_gpio_set_level (gpio_saida, LOW-);
+  libsoc_gpio_set_level (gpio_saida, LOW);
   libsoc_gpio_free (gpio_entrada);
   libsoc_gpio_free (gpio_saida);
   printf ("teste finalizado !\n");
