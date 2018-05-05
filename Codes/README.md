@@ -5,19 +5,19 @@ Esta pasta contém um compilado de códigos gerados pelo grupo visando ajudar no
 
 ## Descrição dos Arquivos
 
-### btn.py e btn.c
+### - btn.py e btn.c
 Exemplo desenvolvido em Python3 ou C utilizando apenas um botão.
 
-### led.py
+### - led.py
 Exemplo desenvolvido em Pyhton3 utilizando-se um sensor de Led.
 
-### btn-led.c
+### - btn-led.c
 Exemplo desenvolvido em C combinando um sensor de Led e um botão.
 
-### temp.c 
+### - temp.c 
 Exemplo desenvolvido em C utilizando o sensor de temperatura.
 
-### python-C.py e rand.c
+### - python-C.py e rand.c
 Exemplo desenvolvido para auxílio de integração entre códigos em Python3 e C, principalmente para atividades com módulos analógicos ou para problemas apresentados pela biblioteca libsoc
 
 #### Apêndice
