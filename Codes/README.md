@@ -17,6 +17,9 @@ Exemplo desenvolvido em C combinando um sensor de Led e um botão.
 ### temp.c 
 Exemplo desenvolvido em C utilizando o sensor de temperatura.
 
+### python-C.py e rand.c
+Exemplo desenvolvido para auxílio de integração entre códigos em Python3 e C, principalmente para atividades com módulos analógicos ou para problemas apresentados pela biblioteca libsoc
+
 #### Apêndice
 Sem perda de generalidade, é possivel trocar um botão por qualquer outro módulo digital de entrada,
 assim como o led por qualquer outro módulo digital de saída.
