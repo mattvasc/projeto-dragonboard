@@ -5,16 +5,16 @@ Esta pasta contém um compilado de códigos gerados pelo grupo visando ajudar no
 
 ## Descrição dos Arquivos
 
-### Arquivo 1 e 2: bnt
+### btn.py e btn.c
 Exemplo desenvolvido em Python3 ou C utilizando apenas um botão.
 
-### Arquivo 3: led
+### led.py
 Exemplo desenvolvido em Pyhton3 utilizando-se um sensor de Led.
 
-### Arquivo 4: btn-led
+### btn-led.c
 Exemplo desenvolvido em C combinando um sensor de Led e um botão.
 
-### Arquivo 5: temp 
+### temp.c 
 Exemplo desenvolvido em C utilizando o sensor de temperatura.
 
 #### Apêndice
