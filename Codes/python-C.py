@@ -1,10 +1,9 @@
-#!/usr/bin/env python
 import time
 import subprocess
 from subprocess import Popen, PIPE
 
 # compila o arquivo que capta os dados em C
-subprocess.run("gcc rand.c -o rand", shell=True)
+subprocess.call("gcc rand.c -o rand", shell=True)
 while(True):
 	time.sleep(3)
 	# recebe todos os stdout do seu arquivo .c, aqui utilizamos rand.c
