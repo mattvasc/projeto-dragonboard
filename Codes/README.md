@@ -20,6 +20,9 @@ Exemplo desenvolvido em C utilizando o sensor de temperatura.
 ### - python-C.py e rand.c
 Exemplo desenvolvido para auxílio de integração entre códigos em Python3 e C, principalmente para atividades com módulos analógicos ou para problemas apresentados pela biblioteca libsoc.
 
+### analog.py
+Exemplo desenvolvido em Python3 para a utilização de módulos analógicos.
+
 ## Apêndice
 Sem perda de generalidade, é possivel trocar um botão por qualquer outro módulo digital de entrada,
 assim como o led por qualquer outro módulo digital de saída.
