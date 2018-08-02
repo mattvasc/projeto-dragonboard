@@ -54,7 +54,7 @@ int main()
    libsoc_spi_get_bits_per_word(spi_dev);
  
    tx[0] = 0x01;
-   tx[1] = 0x80;
+   tx[1] = 0x80; // 80 para ADC1 ou A0 para ADC2
    tx[2] = 0x00;
    while(1)
    {
